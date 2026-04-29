@@ -1,0 +1,13 @@
+﻿numpy>=1.23
+scipy>=1.9
+pandas>=1.5
+matplotlib>=3.7
+seaborn>=0.12
+tqdm>=4.65
+PyYAML>=6.0
+scikit-learn>=1.2
+Pillow>=9.5
+
+# Deep Learning
+torch>=2.0
+torchvision>=0.15
